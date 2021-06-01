@@ -11,7 +11,7 @@ export default function HTML({
   bodyAttributes,
   preBodyComponents,
   postBodyComponents,
-  body,
+  body, 
 }) {
   return (
     <html {...htmlAttributes}>
